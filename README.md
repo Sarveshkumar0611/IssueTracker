@@ -17,7 +17,6 @@ This is a nodejs + ejs  application to track issues/bugs for a project.
 ## Hosted Link
 https://magnificent-slug-getup.cyclic.app/
 # Screenshots
-![it4](https://github.com/deevesh11nov/issusetracker/assets/127090783/fc3a264d-bb3a-449a-be5a-4ef2aa9134a8)
-![it3](https://github.com/deevesh11nov/issusetracker/assets/127090783/6f3d7700-b4cc-422e-a7fd-b6a301cb5218)
-![it2](https://github.com/deevesh11nov/issusetracker/assets/127090783/363884ec-4644-4145-88b8-32a24bd1689d)
-![it1](https://github.com/deevesh11nov/issusetracker/assets/127090783/37bda6d1-de44-4cad-b1b2-b1df30c6ebe8)
+![Screenshot 2023-12-10 142149](https://github.com/Sarveshkumar0611/IssueTracker/assets/143733281/b35d1dfc-19c9-485b-bf75-d243eaf9fdcd)
+![Screenshot 2023-12-10 142132](https://github.com/Sarveshkumar0611/IssueTracker/assets/143733281/28fb5af8-c6d6-4adb-a76e-7c23a40766c6)
+
